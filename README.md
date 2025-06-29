@@ -23,7 +23,5 @@ To build a modular Python-based RAT that connects to GitHub as a Command and Con
 - 🔐 **Stealth**: Avoids direct connections between attacker and target
 - 🧬 **Data Exfiltration**: Collects and uploads results to GitHub
 
----
 
-## 🗂️ Directory Structure
 
