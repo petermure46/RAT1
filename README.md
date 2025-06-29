@@ -1,5 +1,4 @@
-# 🐍 Remote Access Trojan (RAT1) - GitHub-Based Command & Control
-
+# 🐍 Remote Access Trojan (RAT1) 
 This project is a proof-of-concept Remote Access Trojan (RAT) framework written in Python, inspired by the techniques from *Black Hat Python* by Justin Seitz and Tim Arnold.
 
 ---
